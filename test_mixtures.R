@@ -1,6 +1,6 @@
 install.packages("mixexp")
 library(mixexp)
-data("etch")
+data("etch") #data used in this practice
 View(etch)
 
 #quadratic scheffé model
